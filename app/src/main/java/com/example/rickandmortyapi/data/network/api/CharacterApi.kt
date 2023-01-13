@@ -1,4 +1,4 @@
-package com.example.rickmortyapp.data.network.api
+package com.example.rickandmortyapi.data.network.api
 
 import com.example.rickandmortyapi.model.RickAndMortyResponse
 import com.example.rickandmortyapi.model.character.CharacterModel

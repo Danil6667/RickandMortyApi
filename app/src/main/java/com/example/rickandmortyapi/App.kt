@@ -2,7 +2,7 @@ package com.example.rickandmortyapi
 
 import android.app.Application
 import com.example.rickandmortyapi.data.network.RetrofitClient
-import com.example.rickmortyapp.data.network.api.CharacterApi
+import com.example.rickandmortyapi.data.network.api.CharacterApi
 
 
 class App : Application() {

@@ -1,6 +1,6 @@
 package com.example.rickandmortyapi.data.network
 
-import com.example.rickmortyapp.data.network.api.CharacterApi
+import com.example.rickandmortyapi.data.network.api.CharacterApi
 import okhttp3.OkHttpClient
 import okhttp3.logging.HttpLoggingInterceptor
 import retrofit2.Retrofit
