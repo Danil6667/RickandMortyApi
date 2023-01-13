@@ -1,7 +1,7 @@
 package com.example.rickandmortyapi.ui.activity
 
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import androidx.appcompat.app.AppCompatActivity
 import com.geektech.rickandmorty.R
 
 class MainActivity : AppCompatActivity() {

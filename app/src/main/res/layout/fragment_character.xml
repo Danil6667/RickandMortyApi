@@ -4,7 +4,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@drawable/i"
-    tools:context=".ui.fragments.CharacterFragment">
+    tools:context="com.example.rickandmortyapi.ui.fragments.CharacterFragment">
 
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/characterRV"
